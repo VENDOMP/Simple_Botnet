@@ -1,5 +1,5 @@
 # Simple_Botnet
-##t.me/VENDOMP
+## t.me/VENDOMP
 
 Überblick
 
